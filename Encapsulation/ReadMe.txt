@@ -1,7 +1,7 @@
 Encapsulation :
 
     - Binding data and it's Related Information into single entity or class is known as encapsulation.
-    - Encapsulation Specifies that hide the data and Realted Infromation by using the specific access specifier.
+    - Encapsulation Specifies that hide the data and Related Information by using the specific access specifier.
     
     - ex of encapsulation are :
 
@@ -24,8 +24,8 @@ Data Hiding :
 
     - Getters :
             - getters are used to access the private data fields.
-            - getters are also called as ' Accessers '
-            - getters must have have ' public ' access specifier.
+            - getters are also called as ' Accesers '
+            - getters must have  ' public ' access specifier.
             - getters have the same return type as the type of attribute
             - getters doesn't have any parameter i.e. No parameter
             - Syntax :
@@ -36,9 +36,9 @@ Data Hiding :
                     }
 
     - Setters :
-            - setters are used to modify the values of private data feilds.
+            - setters are used to modify the values of private data fields.
             - setters are also called as  " Mutators "
-            - seeters must have ' public ' access specifier.
+            - setters must have ' public ' access specifier.
             - return type of setters is ' void '
             - setters take one parameter
             - Syntax :
