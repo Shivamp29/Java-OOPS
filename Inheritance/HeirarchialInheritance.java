@@ -42,7 +42,8 @@ public class Employee extends Person
 	}
 }
 
-public class Mainclass 
+// Main class
+public class HeirarchialInheritance 
 {
 	public static void main(String[] args)
 	{
