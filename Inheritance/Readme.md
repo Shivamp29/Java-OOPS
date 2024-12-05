@@ -25,6 +25,8 @@
 
 **2. Multi level inheritance :**
   - In this one subclass is inheriting the properties of one super class which inherites the properties of another super class is known as Multi level inheritance.
+  - ex.
+      check the file ' MultiLevelInheritance.java '
 
 **3. Mulitple inheritance :**
   - In this one subclass is inheriting the properties of two different super classes is known as Multiple inheritance
@@ -32,6 +34,8 @@
 
 **4. Heirarchial inheritance :**
   - In this two different Subclasses inheriting the properties of one super class is known as Heirarchial Inheritance.
+  - ex.
+      check the file ' Heirarchialinheritance.java ' 
 
 **5. Hybrid iheritance :**
   - A combination of any one of the type of above inheritance is known as Hybrid Inheritance
