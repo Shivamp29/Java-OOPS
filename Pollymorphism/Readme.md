@@ -27,3 +27,5 @@
    	  	- Method overriding
    	  	- Upcasting
    	  	- Generalisation
+
+	- ex. check program ' RuntimePollyMainClass.java '
