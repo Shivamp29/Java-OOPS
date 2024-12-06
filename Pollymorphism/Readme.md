@@ -6,7 +6,7 @@
 	1. Runtime polymorphism 
 	2. Compiler time polymorphis
 		
-**1. Compile time polymorphism : **
+**1. Compile time polymorphism :**
 	- In compile time polymorphism the method declaration is binded to method body by the compiler during the compile time
 	-Since the binding happens at the compilation time then it is known as " Early Binding"
 	- Once binding is done by the compiler it can cannot be rebinded  hence it is also known aa " Static Binding "
