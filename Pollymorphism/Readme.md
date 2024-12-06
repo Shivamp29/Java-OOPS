@@ -13,6 +13,7 @@
    	- Method overloading is used to achieve the compile time polymorphism.
    	- In the method overloading binding of methods is dine on the basis of parameter list
    	- The methods which cannot be overridden the compiler performs the binding.
+   	- ex. check program ' CalculatorMainclass.java '
 
 2. Run Time Polymorphism :
    	- In run time polymorphism the method declaration is binded  to its method body By the JVM during the execution time
