@@ -41,16 +41,16 @@ class Car implements Vehical
 }
 public class AbstractionUsingInterface
 {
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) 
+	{
 		Bike b = new Bike();
-
-    b.start();
+	
+	    b.start();
 		b.move();
 		b.stop();
-    
+	    
 		Car c = new Car();
-	
+		
 		c.start();
 		c.move();
 		c.stop();
