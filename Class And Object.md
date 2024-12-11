@@ -20,7 +20,7 @@
       - Member Variables
       - Member Functions
 
-  **1. Member Variables :**
+**1. Member Variables :**
       - The variables which are declared inside the class and outside the member function are called as Member variable
       - Member Variables get default initialization by the compiler
       - Member Variables are classified into 2 types
