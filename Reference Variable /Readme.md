@@ -16,7 +16,6 @@
      - One reference variable can be copied to anothe reference variable , if the both the reference variable types are same
      - ex. Check the program " CopyRefVariable.java "
      - An object in heap can be refered by multiple reference variables , in such cases the modification done using one object will be reflected in other object.
-     - Defining a class type reference variable " ReferingRefVariable.java "
      - Consider the class name is Demo then class type refrence variable is declared as
      -     Demo d1 ;
      - Initialization
