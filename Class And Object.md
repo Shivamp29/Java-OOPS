@@ -39,7 +39,7 @@
 
 # Objects 
 
-  - Object i san entity which has it's own States and behaviours
+  - Object is an entity which has it's own States and behaviours
   - States are nothing but Information About an Object
   - Behaviours are nothing but Operations can be performed on the State of an Objects
   - Object is Physical Entity
